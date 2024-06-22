@@ -2,7 +2,7 @@
 
 - lg-ws-admin
     - SPA WEB 관리자 사용자 vue project
-
+ 
 ## 프로젝트 실행
 
 - npm install
