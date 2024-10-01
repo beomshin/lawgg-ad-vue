@@ -5,7 +5,7 @@ import CookieCont from "@/constants/cookieCont";
 
 const instance = axios.create({
     timeout: 3000,
-    baseURL: '/lawgg-ad-spring'
+    baseURL: '/lawgg-admin-spring'
 })
 
 const getAccessToken = () => {
